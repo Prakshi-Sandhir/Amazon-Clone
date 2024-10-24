@@ -1,10 +1,10 @@
-# Amazon Homepage with Shop Section
+# Amazon Homepage with Shop Section💻
 
 ## Overview
 This project is a simple, responsive e-commerce homepage featuring a product shop section with a grid of home essentials.
 
 ## Features
-### Shop Section: 
+### Shop Section:🛒 
 Displays a collection of products with a "Discover more" link.
 
 ## Technologies Used
